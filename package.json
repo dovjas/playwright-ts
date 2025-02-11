@@ -11,6 +11,7 @@
     "@faker-js/faker": "^9.4.0",
     "@playwright/test": "^1.50.1",
     "@types/node": "^22.13.1",
+    "allure-commandline": "^2.32.2",
     "allure-playwright": "^3.1.0",
     "eslint-plugin-playwright": "^2.2.0"
   }
